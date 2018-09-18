@@ -1,6 +1,11 @@
 # __BlueAir Air Purifier Scheduler__
 
 
+## __Dependency__
+* Python 3.6+
+* requests
+* schedule
+
 ## __Software Stack__
 |Filename|Content|
 |---|---|
