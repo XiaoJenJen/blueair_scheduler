@@ -2,6 +2,10 @@
 
 
 ## __Software Stack__
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 +------------------------+--------------------------------+  
 |    auto_control.py     +     main program / scheduler   |  
 |       myhome.py        +          wraps all devices     |  
