@@ -1,4 +1,4 @@
-# __Introdcution of this project__
+# __BlueAir Air Purifier Scheduler__
 
 
 ## __Stack__
