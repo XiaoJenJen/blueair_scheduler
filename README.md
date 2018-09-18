@@ -2,13 +2,13 @@
 
 
 ## __Software Stack__
-+------------------------+--------------------------------+
-|    auto_control.py     +     main program / scheduler   |
-|       myhome.py        +          wraps all devices     |
-|       blueair.py       +             BlueAir API        |
-+------------------------+--------------------------------+
-|       config.py        |(config file for blueair API)   |
-+------------------------+--------------------------------+
++------------------------+--------------------------------+  
+|    auto_control.py     +     main program / scheduler   |  
+|       myhome.py        +          wraps all devices     |  
+|       blueair.py       +             BlueAir API        |  
++------------------------+--------------------------------+  
+|       config.py        |(config file for blueair API)   |  
++------------------------+--------------------------------+  
 
 ## __Introduction__
 * This is a BlueAir purifier automatic scheduler, which makes life easier. You can schedule running mode and time of the BlueAir air purifier to control the air quality in your home automatically.
