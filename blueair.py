@@ -11,7 +11,7 @@ class NoLoginError(Exception):
 class BlueAir:
 
     def __init__(self):
-        self.host = "api-us-east-1.foobot.io"
+        self.host = "api.foobot.io"
         self.auth = "Basic " + base64.encodebytes(bytes(f"{config.email}:{config.password}", "utf-8")).decode().rstrip('\n')
         self.headers = {
             'X-API-KEY-TOKEN': config.api_token,
